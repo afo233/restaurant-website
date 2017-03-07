@@ -59,3 +59,8 @@ p{
   text-align: center;
   font-family: font-family: 'Vidaloka', serif;
 }
+.center-block {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+ }
